@@ -10,21 +10,21 @@ from telethon import __version__ as tver
 from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START_IMG
 
 PHOTO = [
-    "https://graph.org/file/09598b49de61d19475b9a.jpg",
-    "https://graph.org/file/09598b49de61d19475b9a.jpg",
-    "https://graph.org/file/09598b49de61d19475b9a.jpg",
-    "https://graph.org/file/09598b49de61d19475b9a.jpg",
-    "https://graph.org/file/09598b49de61d19475b9a.jpg",
+    "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg",
+    "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg",
+    "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg",
+    "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg",
+    "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg",
 ]
 
 Mukesh = [
     [
-        InlineKeyboardButton(text="๏ ᴅᴇᴠ ๏", user_id=6238584665),
-        InlineKeyboardButton(text="๏ ꜱᴜᴘᴘᴏʀᴛ ๏", url=f"http://t.me/Berlinmusic_support"),
+        InlineKeyboardButton(text="๏ ᴅᴇᴠ ๏", user_id=5779185981),
+        InlineKeyboardButton(text="๏ ꜱᴜᴘᴘᴏʀᴛ ๏", url=f"https://t.me/musicsupport_dan"),
     ],
     [
-        InlineKeyboardButton(text="๏ ғᴏᴜɴᴅᴇʀ ๏", url="https://t.me/+m5VgIKV_vFZhYjk9"),
-        InlineKeyboardButton(text="๏ ᴄʜᴀɴɴᴇʟ ๏", url=f"https://t.me/envynitysex"),
+        InlineKeyboardButton(text="๏ ᴡɪʟᴅᴀɴ ๏", url="https://t.me/mhmdwldnnnn"),
+        InlineKeyboardButton(text="๏ ꜱᴛᴏʀᴇ ๏", url=f"https://t.me/Disney_storeDan"),
     ],
     [                         
         InlineKeyboardButton(
@@ -58,9 +58,9 @@ async def restart(client, m: Message):
         START_IMG,
         caption=f"""**ʜʏ ᴍᴇᴋ ,ɢᴡ『[{BOT_NAME}](f"t.me/{BOT_USERNAME}")』**
    ━━━━━━━━━━━━━━━━━━━
-  ๏ ** ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴅᴜᴋᴇ](tg://user?id=6238584665)
+  ๏ ** ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴡɪʟᴅᴀɴ](tg://user?id=5779185981)
   
-  ๏ ** ғᴏᴜɴᴅᴇʀ :** [ᴇɴᴠʏɴɪᴛʏ](https://t.me/envynitysex)
+  ๏ ** ꜱᴛᴏʀᴇ :** [ꜱᴛᴏʀᴇ](https://t.me/Disney_storeDan)
    ━━━━━━━━━━━━━━━━━━━""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
     )

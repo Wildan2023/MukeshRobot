@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-ᴇɴᴠʏɴɪᴛʏ = "https://graph.org/file/09598b49de61d19475b9a.jpg"
+ᴡɪʟᴅᴀɴ = "https://telegra.ph//file/ce83f87bc1ea1c3510ae2.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -18,7 +18,7 @@ async def repo(client, message):
         photo=Mukesh,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ᴅᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id=6238584665)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ᴅᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id=5779185981)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -30,11 +30,11 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "• ᴏᴡɴᴇʀ ",user_id=6238584665
+                        "• ᴏᴡɴᴇʀ ",user_id=5779185981
                     ),
                     InlineKeyboardButton(
                         "• ʀᴇᴘᴏ •",
-                        url="https://t.me/envynitysex",
+                        url="https://t.me/Muhamadwildan018",
                     ),
                 ]
             ]

@@ -23,7 +23,7 @@ Mukesh = [
         InlineKeyboardButton(text="๏ ꜱᴜᴘᴘᴏʀᴛ ๏", url=f"https://t.me/musicsupport_dan"),
     ],
     [
-        InlineKeyboardButton(text="๏ ᴡɪʟᴅᴀɴ ๏", url="https://t.me/mhmdwldnnnn"),
+        InlineKeyboardButton(text="๏ ᴅᴀɴ ๏", url="https://t.me/mhmdwldnnnn"),
         InlineKeyboardButton(text="๏ ꜱᴛᴏʀᴇ ๏", url=f"https://t.me/Disney_storeDan"),
     ],
     [                         
@@ -58,7 +58,7 @@ async def restart(client, m: Message):
         START_IMG,
         caption=f"""**ʜʏ ᴍᴇᴋ ,ɢᴡ『[{BOT_NAME}](f"t.me/{BOT_USERNAME}")』**
    ━━━━━━━━━━━━━━━━━━━
-  ๏ ** ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴡɪʟᴅᴀɴ](tg://user?id=5779185981)
+  ๏ ** ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴅᴀɴ](tg://user?id=5779185981)
   
   ๏ ** ꜱᴛᴏʀᴇ :** [ꜱᴛᴏʀᴇ](https://t.me/Disney_storeDan)
    ━━━━━━━━━━━━━━━━━━━""",

@@ -102,7 +102,7 @@ __help__ = "Module help message"
 
 @mukesh.on_message(filters.command("start"))
 async def some_function(_, message):
-    await message.reply_text("ᴡɪʟᴅᴀɴ ᴀʟɪᴠᴇ ʙᴀʙʏ❣️!!")
+    await message.reply_text("ᴅᴀɴ ᴀʟɪᴠᴇ ʙᴀʙʏ❣️!!")
 
 # ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴜɴᴄᴛɪᴏɴs ᴀʀᴇ ɪɴ, Berlinrobot/utils/,Berlinrobot, and Berlinrobot/modules/
 ```
@@ -117,10 +117,10 @@ async def some_function(_, message):
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Berlinmusic_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/musicsupport_dan/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Berlinmidnight"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/mhmdwldnnnn"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━

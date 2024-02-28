@@ -13,7 +13,7 @@ async def must_join_channel(bot: Client, msg: Message):
             await bot.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
             if MUST_JOIN.isalpha():
-                link = "https://t.me/Asupanhot_viral" + MUST_JOIN
+                link = "https://t.me/Disney_storeDan" + MUST_JOIN
             else:
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
@@ -23,11 +23,11 @@ async def must_join_channel(bot: Client, msg: Message):
                     f"Join Dulu Kampang Baru Pencet /start Lagi !!",
                 
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("Masuk sini nyet, Jangan Lupa Salam", url=f"https://t.me/Asupanhot_viral)]
+                        [InlineKeyboardButton("Masuk sini nyet, Jangan Lupa Salam", url=f"https://t.me/Disney_storeDan)]
                     ])
                 )
                 await msg.stop_propagation()
             except ChatWriteForbidden:
                 pass
     except ChatAdminRequired:
-        print(f"ɪ'ᴍ ɴᴏᴛ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ MUST_JOIN ᴄʜᴀᴛ : {MUST_JOIN} !")
+        print(f"ɪ'ᴍ ᴅᴀɴ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ MUST_JOIN ᴄʜᴀᴛ : {MUST_JOIN} !")

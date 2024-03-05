@@ -16,7 +16,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 <h2 align="center">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ </h2>
 
-<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/musicsupport_dan">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʀᴏʙᴏᴛ</a>
+<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/musik_supportdan">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʀᴏʙᴏᴛ</a>
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...</h4>
 ━━━━━━━━━━━━━━━━━━━━━━
 <h2 align="center"> 
@@ -90,7 +90,7 @@ Press `Ctrl+b` and then `d`
 ```py
 #ᴀᴅᴅ ʟɪᴄᴇɴsᴇ ᴛᴇxᴛ ʜᴇʀᴇ ɢᴇᴛ ɪᴛ ғʀᴏᴍ ʙᴇʟᴏᴡ.
 
-from Berlinrobot import pbot as Midnight # This is bot's client
+from Danrobot import pbot as Great # This is bot's client
 from pyrogram import filters # pyrogram filters
 
 
@@ -104,7 +104,7 @@ __help__ = "Module help message"
 async def some_function(_, message):
     await message.reply_text("ᴅᴀɴ ᴀʟɪᴠᴇ ʙᴀʙʏ❣️!!")
 
-# ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴜɴᴄᴛɪᴏɴs ᴀʀᴇ ɪɴ, Berlinrobot/utils/,Berlinrobot, and Berlinrobot/modules/
+# ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴜɴᴄᴛɪᴏɴs ᴀʀᴇ ɪɴ, Danrobot/utils/,Danrobot, and Danrobot/modules/
 ```
 
 <h3 align="center"> 
@@ -117,7 +117,7 @@ async def some_function(_, message):
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/musicsupport_dan/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/musik_supportdan/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/mhmdwldnnnn"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
@@ -125,7 +125,7 @@ async def some_function(_, message):
 
 ━━━━━━━━━━━━━━━━━━━━
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ Berlin ](https://t.me/mhmdwldnnnn)ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
+ [ Dan ](https://t.me/mhmdwldnnnn)ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
 
 
 ━━━━━━━━━━━━━━━━━━━━

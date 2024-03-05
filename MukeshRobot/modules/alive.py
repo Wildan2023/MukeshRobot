@@ -20,7 +20,7 @@ PHOTO = [
 Mukesh = [
     [
         InlineKeyboardButton(text="๏ ᴅᴇᴠ ๏", user_id=5779185981),
-        InlineKeyboardButton(text="๏ ꜱᴜᴘᴘᴏʀᴛ ๏", url=f"https://t.me/musicsupport_dan"),
+        InlineKeyboardButton(text="๏ ꜱᴜᴘᴘᴏʀᴛ ๏", url=f"https://t.me/musik_supportdan"),
     ],
     [
         InlineKeyboardButton(text="๏ ᴅᴀɴ ๏", url="https://t.me/mhmdwldnnnn"),
